@@ -1,2 +1,19 @@
-# ps-release-notes
-钱先生小程序发布版本说明
+# 钱先生小程序发布版本说明
+
+# 1.8.9 - May 27, 2019
+
+
+##  👍 功能 (5)
+- [新注册的用户给予默认昵称，防止同步错误导致null](https://trello.com/c/62fUBpx0/76-%E6%96%B0%E6%B3%A8%E5%86%8C%E7%9A%84%E7%94%A8%E6%88%B7%E7%BB%99%E4%BA%88%E9%BB%98%E8%AE%A4%E6%98%B5%E7%A7%B0%EF%BC%8C%E9%98%B2%E6%AD%A2%E5%90%8C%E6%AD%A5%E9%94%99%E8%AF%AF%E5%AF%BC%E8%87%B4null)
+- [数据统计添加用户发布图片相关数据](https://trello.com/c/lgdARwfS/75-%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E6%B7%BB%E5%8A%A0%E7%94%A8%E6%88%B7%E5%8F%91%E5%B8%83%E5%9B%BE%E7%89%87%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE)
+- [为用户添加备注的编辑与展示功能](https://trello.com/c/X4iJROG6/68-%E4%B8%BA%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0%E5%A4%87%E6%B3%A8%E7%9A%84%E7%BC%96%E8%BE%91%E4%B8%8E%E5%B1%95%E7%A4%BA%E5%8A%9F%E8%83%BD)
+- [放宽用户昵称字符数限制](https://trello.com/c/HYgDQEo6/65-%E6%94%BE%E5%AE%BD%E7%94%A8%E6%88%B7%E6%98%B5%E7%A7%B0%E5%AD%97%E7%AC%A6%E6%95%B0%E9%99%90%E5%88%B6)
+- [添加图片下载量统计功能](https://trello.com/c/r9lDkwIx/66-%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD)
+
+
+##  🐛 BUG (4)
+- [新注册的用户给予默认昵称，防止同步错误导致null](https://trello.com/c/62fUBpx0/76-%E6%96%B0%E6%B3%A8%E5%86%8C%E7%9A%84%E7%94%A8%E6%88%B7%E7%BB%99%E4%BA%88%E9%BB%98%E8%AE%A4%E6%98%B5%E7%A7%B0%EF%BC%8C%E9%98%B2%E6%AD%A2%E5%90%8C%E6%AD%A5%E9%94%99%E8%AF%AF%E5%AF%BC%E8%87%B4null)
+- [个别新客户首次登陆后，发布的货源信息头像为空，昵称为null](https://trello.com/c/x0KGl1kl/64-%E4%B8%AA%E5%88%AB%E6%96%B0%E5%AE%A2%E6%88%B7%E9%A6%96%E6%AC%A1%E7%99%BB%E9%99%86%E5%90%8E%EF%BC%8C%E5%8F%91%E5%B8%83%E7%9A%84%E8%B4%A7%E6%BA%90%E4%BF%A1%E6%81%AF%E5%A4%B4%E5%83%8F%E4%B8%BA%E7%A9%BA%EF%BC%8C%E6%98%B5%E7%A7%B0%E4%B8%BAnull)
+- [在小程序的不同版本切换时，会导致列表加载假死](https://trello.com/c/aR0Qu7jh/71-%E5%9C%A8%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E7%89%88%E6%9C%AC%E5%88%87%E6%8D%A2%E6%97%B6%EF%BC%8C%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%88%97%E8%A1%A8%E5%8A%A0%E8%BD%BD%E5%81%87%E6%AD%BB)
+- [验证码的倒计时不稳定，有跳跃](https://trello.com/c/agMDvupM/69-%E9%AA%8C%E8%AF%81%E7%A0%81%E7%9A%84%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%8D%E7%A8%B3%E5%AE%9A%EF%BC%8C%E6%9C%89%E8%B7%B3%E8%B7%83)
+
